@@ -1,0 +1,29 @@
+{
+  "schema": "stafam-stitch-public-reference-1",
+  "source": "visually approved ITZONE brand decisions",
+  "fontFamily": "Roboto Condensed, sans-serif",
+  "color": {
+    "primary": "#13416D",
+    "green": "#00A087",
+    "lightBlue": "#36A4DD",
+    "darkGreenText": "#006E5D",
+    "program": {
+      "doctorsLecture": "#1D9BD6",
+      "doctorsSeminar": "#0A987F",
+      "medicalPersonnelLecture": "#E56A0B",
+      "medicalPersonnelSeminar": "#6A4E76",
+      "combinedSeminar": "#B81818"
+    }
+  },
+  "references": {
+    "desktopHeaderPx": 72,
+    "mobileHeaderPx": 60,
+    "mobileBottomNavPx": 64,
+    "contentMaxWidthPx": 1280,
+    "spacingBasePx": 8,
+    "buttonRadiusPx": 8,
+    "cardRadiusPx": 12,
+    "heroRadiusPx": 16,
+    "defaultControlHeightPx": 44
+  }
+}
